@@ -1,0 +1,11 @@
+div.center {
+    width: 100%;
+    text-align: center;
+}
+
+div.top {
+    display: inline-block;
+    padding: 5px; 
+    border: solid;
+    border-width: 5px;
+}
