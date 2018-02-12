@@ -9,3 +9,12 @@ div.top {
     border: solid;
     border-width: 5px;
 }
+
+div.image {
+    margin-top: 10px;
+}
+
+img.image {
+    border: solid; 
+    border-width: 5px;
+}
